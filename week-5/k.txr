@@ -1,0 +1,5 @@
+          {mounted && (
+            <GlobalState>
+              <Component {...pageProps} />
+            </GlobalState>
+          )}
